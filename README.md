@@ -2,9 +2,17 @@
   
 # Positron LT-cn
 
+<br>
 <img src="参考图片和视频/Positron LT-cn 渲染图.png" width="350" height="350">
 
+<br>
+
+
 </div>
+
+<br>
+
+<br>
 
 1. 国内可制造，任何零件均可在国内买到
 2. 价格合理，目前价格大约在1500~2000元左右
